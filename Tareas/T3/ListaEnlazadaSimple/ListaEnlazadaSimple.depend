@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581046549 source:/home/ambrosio/Documentos/EDD1S2020/ListaEnlazadaSimple/main.cpp
+	<iostream>
+
+1581046684 source:/home/ambrosio/Documentos/EDD1S2020/ListaEnlazadaSimple/src/LIST.cpp
+	"LIST.h"
+
+1581046684 /home/ambrosio/Documentos/EDD1S2020/ListaEnlazadaSimple/include/LIST.h
+
